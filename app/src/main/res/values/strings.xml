@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScreenRecoder</string>
+    <string name="mediarecorder_demo">MediaRecorder Demo</string>
+    <string name="recoder_video_by_mediacodec">recoder video by MediaCodec</string>
+    <string name="recoder_video_by_mediarecorder">recoder video by MediaRecorder</string>
+    <string name="mediacodec_demo">MediaCodec Demo</string>
+    <string name="start">start recoding</string>
+    <string name="stop">stop recoding</string>
+</resources>
